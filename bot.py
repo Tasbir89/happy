@@ -1,2 +1,1 @@
-How are you?
-what happenI am king
+what happenI am queen
