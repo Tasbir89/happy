@@ -1,1 +1,3 @@
 Now we will work as a collaborator
+
+It's good time to learn Machine Learning concepts
